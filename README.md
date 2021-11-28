@@ -1,0 +1,3 @@
+# 🚀 Astro localization
+
+TODO: Docs

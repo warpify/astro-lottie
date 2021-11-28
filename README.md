@@ -1,3 +1,3 @@
-# 🚀 Astro localization
+# 🚀 Astro lottie
 
 TODO: Docs

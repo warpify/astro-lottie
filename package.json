@@ -12,9 +12,8 @@
 	},
 	"files": [
 		"src/index.js",
-		"src/LanguageSwitcher.astro",
-		"src/SetDefaultLanguage.astro",
-		"src/Translate.astro"
+		"src/Lottie.astro",
+		"src/assets"
 	],
 	"exports": "./src/index.js",
 	"keywords": [
